@@ -8,7 +8,7 @@ The pipeline handles over **211,000+ trade logs** across **479 days** of overlap
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** Pandas (Data Processing), Seaborn/Matplotlib (Visualization), Requests (API integration)
-- **IDE:** IntelliJ IDEA / VS Code
+- **IDE:**  VS Code
 
 ## 📊 Key Results
 - **Data Points:** 479 days of summarized data.
